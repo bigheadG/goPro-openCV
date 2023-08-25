@@ -1,5 +1,3 @@
-# goPro-openCV
-goPro-OpenCV python
 
 # Installation
 From PyPi:
