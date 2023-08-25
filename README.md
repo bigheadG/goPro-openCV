@@ -3,7 +3,7 @@ goPro-OpenCV python
 
 # Installation
 From PyPi:
-    pip install goprocam
+        pip install goprocam
 
 
 ## wifi connection:
